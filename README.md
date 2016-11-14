@@ -15,7 +15,6 @@ This simple movie application written in Swift 3 is part of a tutorial project o
 
 ##Source: 
 - [The Movie Database](https://www.themoviedb.org)
-- <a href="https://www.themoviedb.org" target="_blank">The Movie Database</a>
 
 ##Pods used: 
 
