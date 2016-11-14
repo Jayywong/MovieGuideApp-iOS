@@ -13,7 +13,7 @@ This simple movie application written in Swift 3 is part of a tutorial project o
 
 - TabBars (Sorted movies based on Nowplaying and Ratings)
 
-##Source: The Movie Database
+##Source: [The Movie Database](https://www.themoviedb.org)
 
 ##Pods used: 
 
